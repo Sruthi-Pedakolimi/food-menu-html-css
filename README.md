@@ -23,5 +23,7 @@ A responsive and visually appealing food menu landing page created using **HTML*
 - Clean and structured typography with Google Fonts
 
 ---
+## 🚀 Live Demo
 
+[🔗 Click here to view the demo](https://sruthipmunch.ccbp.tech/) 
 
